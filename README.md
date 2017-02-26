@@ -1,4 +1,3 @@
-[phantomjs]: http://phantomjs.org/download.html
 [maven]: http://maven.apache.org/
 [git]: http://git-scm.com/
 
@@ -6,7 +5,7 @@
 
 ### Getting Started
 
-To run tests you need to install [maven][maven], [git][git] and [phantomjs][phantomjs].
+To run tests you need to install [maven][maven], [git][git].
 
 To generate Allure Report you should perform following steps:
 
